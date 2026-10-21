@@ -1,0 +1,8 @@
+# Source docs
+content/
+
+# Configuration secrets
+config.json
+
+# Local cache
+__pycache__/
